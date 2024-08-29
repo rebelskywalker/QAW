@@ -13,3 +13,5 @@
 ## nodejs -v
 - Returned v18.20.4
 ## 
+Plan: 
+incorporate error handling and time conversion of articles to handle different time formats
