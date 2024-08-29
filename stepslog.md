@@ -7,4 +7,9 @@
 ## Used Curl to download nodejs from https://deb.nodesource.com/setup_18.x | sudo -E bash -
 - entered the command above
 - then followed with sudo apt install -y nodejs
-- 
+## Checking installed using which to returnf irst found directory contianing those files, could also use program file name with -v option to check version
+- which npm
+- which nodejs
+## nodejs -v
+- Returned v18.20.4
+## 
